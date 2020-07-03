@@ -115,6 +115,7 @@ h1 {
   font-style: normal;
 }
 
+/* added below 'tag' and 'tag:before' to differentiate the style of the newly added tag object*/
 .tag {
   font-weight: bold;
 }
