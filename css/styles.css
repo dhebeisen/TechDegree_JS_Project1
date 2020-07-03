@@ -115,6 +115,15 @@ h1 {
   font-style: normal;
 }
 
+.tag {
+  font-weight: bold;
+}
+
+.tag:before {
+  content: " - ";
+  font-weight: bold;
+}
+
 @media (min-width: 768px) {
   body {
     padding: 25px;
